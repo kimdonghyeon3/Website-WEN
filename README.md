@@ -63,7 +63,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kimdonghyeon3/escaperoom.git
+   git clone https://github.com/kimdonghyeon3/Website-WEN.git
    ```
 2. vscode
 
